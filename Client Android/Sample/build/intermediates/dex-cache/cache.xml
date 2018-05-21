@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\gaby\StudioProjects\Sample\app\libs\Ice.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bc68aac45dc0fc174dfaae1e0c05567a7533a015">
+        <dex dex="C:\Users\gaby\StudioProjects\Sample\app\build\intermediates\pre-dexed\debug\Ice_ff240ba44504cbc1ff3c48a35e07789e4a5680a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gaby\StudioProjects\Sample\app\build\intermediates\exploded-aar\de.mrmaffen\libvlc-android\2.1.12\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3115b375a5745db337f0c4c8676f194afdba3574">
+        <dex dex="C:\Users\gaby\StudioProjects\Sample\app\build\intermediates\pre-dexed\debug\de.mrmaffen-libvlc-android-2.1.12_74b0f441ebf68ce64021bdb9fad7879c51c64f7c.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Ice">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/Ice.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
